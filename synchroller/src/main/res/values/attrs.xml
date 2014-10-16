@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScrollableComponent">
+        <attr name="android:fadeScrollbars" />
+        <attr name="android:scrollbarAlwaysDrawHorizontalTrack" />
+        <attr name="android:scrollbarAlwaysDrawVerticalTrack" />
+        <attr name="android:scrollbarDefaultDelayBeforeFade" />
+        <attr name="android:scrollbarFadeDuration" />
+        <attr name="android:scrollbarSize" />
+        <attr name="android:scrollbarStyle" />
+        <attr name="android:scrollbarThumbHorizontal" />
+        <attr name="android:scrollbarThumbVertical" />
+        <attr name="android:scrollbarTrackHorizontal" />
+        <attr name="android:scrollbarTrackVertical" />
+        <attr name="android:scrollbars" />
+        <attr name="interceptTouchEvent" format="boolean"/>
+        <attr name="rangeView" format="reference"/>
+        <attr name="rangeViewGroup" format="reference"/>
+        <attr name="scrollWidth" format="dimension"/>
+        <attr name="scrollHeight" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
+
